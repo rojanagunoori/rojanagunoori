@@ -81,6 +81,39 @@ Developed a CNN model (ResNet50) to classify 120 dog breeds with **86% accuracy*
 
 ---
 
+## 🎓 Education
+
+**Osmania University College for Women, Hyderabad**  
+📘 *M.Sc. in Analytical Chemistry* (Dec 2020 – Nov 2022)  
+🎯 Grade: 6.28 CGPA  
+
+**Alphores Women’s Degree College, Karimnagar**  
+📗 *B.Sc. in Mathematics, Chemistry, and Computer Science (MCCS)* (Jun 2017 – Dec 2020)  
+🏆 Grade: 9.4%  
+
+**SR Junior College, Karimnagar**  
+📙 *Intermediate (MPC – Maths, Physics, Chemistry)* (Jun 2015 – Apr 2017)  
+🎯 Grade: 77.7%  
+
+**Sri Vidya Bharathi High School, Karimnagar**  
+📒 *Secondary School Certificate (SSC)* (May 2014 – May 2015)  
+🏅 Grade: 7.3 CGPA  
+
+---
+
+## 🏅 Certifications
+
+- **AI & Machine Learning, Data Science Bootcamp** – Udemy  
+  📜 [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-2e30459b-86bf-495f-a53b-0bb5b9ebd56e.pdf) *(Issued Oct 13, 2025)*  
+
+- **Kaggle Community Member Badge** – [View](https://www.kaggle.com/certification/badges/nagunooriroja/101)  
+- **Kaggle Dataset Creator Badge** – [View](https://www.kaggle.com/certification/badges/nagunooriroja/17)  
+- **Kaggle Code Uploader Badge** – [View](https://www.kaggle.com/certification/badges/nagunooriroja/33)  
+- **Kaggle Python Coder Badge** – [View](https://www.kaggle.com/certification/badges/nagunooriroja/30)
+
+---
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rojanagunoori&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rojanagunoori&theme=dark&hide_border=false)<br/>
