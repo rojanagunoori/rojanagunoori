@@ -45,7 +45,7 @@ Real-time social media app with **login, posts, comments, likes, and chat**, bui
 Task management system with **JWT authentication**, CRUD features, and responsive UI using SQLite3.  
 🔗 [GitHub Repo](https://github.com/rojanagunoori/TodoMernAssignment.git)
 
-### 🐶 [Dog Breed Identification – Deep Learning](https://colab.research.google.com)
+### 🐶 [Dog Breed Identification – Deep Learning](https://colab.research.google.com/drive/13h8zjYzofD3-rI3qXIRBJhyCkgkWuvpB)
 Developed a CNN model (ResNet50) to classify 120 dog breeds with **86% accuracy**.  
 🔗 [Kaggle Profile](https://www.kaggle.com/nagunooriroja)
 
