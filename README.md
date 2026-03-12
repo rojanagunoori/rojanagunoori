@@ -40,6 +40,20 @@ Hi 👋, I'm **Nagunoori Roja**
 ---
 
 ## 🚀 Featured Projects
+### 🎬 NavaFlix – Movie Streaming Web App
+A Netflix-inspired movie streaming web application that allows users to browse and explore movies with a modern UI.
+
+🔗 Live Demo: [(https://nava-flix.vercel.app)](https://nava-flix.vercel.app/)  
+🔗 GitHub Repo: [https://github.com/rojanagunoori/NavaFlix](https://github.com/rojanagunoori/NavaFlix.git)  
+
+**Features**
+- 🎥 Netflix-style movie browsing interface
+- 🔎 Search and explore movies
+- 📱 Responsive design for desktop and mobile
+- 🎨 Clean UI inspired by modern streaming platforms
+
+**Tech Stack**
+HTML, CSS, JavaScript, React.js, Tailwind CSS
 
 ### 🧩 [User Admin Plus – User Management System](https://mern-useradmin-plus.netlify.app)
 A full-stack MERN app with authentication, CRUD, profile uploads, pagination, and CSV export.  
