@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm **Nagunoori Roja**  
-🎯 A passionate **Software Developer** skilled in **Web Development, AI/ML, and Full-Stack Technologies**  
+🎯 A passionate **Software Developer** skilled in **🎯 Full Stack Developer | Android Developer | AI/ML Enthusiast**  
 📍 Based in Karimnagar, Telangana, India  
 
 ---
@@ -16,6 +16,18 @@ Hi 👋, I'm **Nagunoori Roja**
 ---
 
 ## 💼 Experience
+
+**Full Stack Software Engineer Intern** — InnoRize Enterprises Private Limited  
+📍 Hyderabad, Telangana | 🗓️ Nov 2025 – Present  
+
+- Working on Android application development and web applications.
+- Contributing to frontend and backend development for company projects.
+- Implementing and improving website security features.
+- Debugging, testing, and optimizing application performance.
+- Collaborating with the development team on live projects and maintaining daily development logs.
+
+---
+
 
 **MERN Stack Developer Intern** — DGTLmart Technologies Pvt. Ltd.  
 📍 Faridabad, Haryana | 🗓️ July 2024 – November 2024  
