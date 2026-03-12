@@ -40,20 +40,32 @@ Hi 👋, I'm **Nagunoori Roja**
 ---
 
 ## 🚀 Featured Projects
-### 🎬 NavaFlix – Movie Streaming Web App
-A Netflix-inspired movie streaming web application that allows users to browse and explore movies with a modern UI.
 
-🔗 Live Demo: [(https://nava-flix.vercel.app)](https://nava-flix.vercel.app/)  
-🔗 GitHub Repo: [https://github.com/rojanagunoori/NavaFlix](https://github.com/rojanagunoori/NavaFlix.git)  
+### 🎬 NavaFlix – AI-Powered Movie & TV Discovery Platform
 
-**Features**
-- 🎥 Netflix-style movie browsing interface
-- 🔎 Search and explore movies
-- 📱 Responsive design for desktop and mobile
-- 🎨 Clean UI inspired by modern streaming platforms
+A modern **movie and TV discovery platform** built with **Next.js, TypeScript, and TailwindCSS**.  
+It fetches real-time data from the **TMDB API** and integrates **Gemini AI** to generate smart summaries and suggestions, delivering a Netflix-style browsing experience.
 
-**Tech Stack**
-HTML, CSS, JavaScript, React.js, Tailwind CSS
+🔗 **Live Demo:** https://nava-flix.vercel.app/  
+🔗 **GitHub Repo:** https://github.com/rojanagunoori/NavaFlix  
+
+### 🚀 Features
+- 🎬 Browse movies & TV shows: **Trending, Popular, Top Rated, Now Playing, Upcoming**
+- 🔍 **Real-time search** for movies, TV shows, and actors
+- 📜 **Watchlist** to save favorite movies & series
+- ⏭️ **Season & episode navigation** for TV series
+- 🖼️ High-quality posters & backdrops from **TMDB API**
+- 🤖 **AI-generated summaries and fun facts** using Gemini API
+- 📱 **Fully responsive UI** for mobile and desktop
+- ⚡ **Optimized pagination and fast loading**
+
+### 🏗️ Tech Stack
+- **Framework:** Next.js 14 (App Router)
+- **Language:** TypeScript
+- **Styling:** TailwindCSS + ShadCN UI
+- **Icons:** Lucide Icons
+- **APIs:** TMDB API, Gemini AI API
+- **Deployment:** Vercel
 
 ### 🧩 [User Admin Plus – User Management System](https://mern-useradmin-plus.netlify.app)
 A full-stack MERN app with authentication, CRUD, profile uploads, pagination, and CSV export.  
