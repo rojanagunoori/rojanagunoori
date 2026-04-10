@@ -67,25 +67,285 @@ It fetches real-time data from the **TMDB API** and integrates **Gemini AI** to 
 - **APIs:** TMDB API, Gemini AI API
 - **Deployment:** Vercel
 
-### 🧩 [User Admin Plus – User Management System](https://mern-useradmin-plus.netlify.app)
-A full-stack MERN app with authentication, CRUD, profile uploads, pagination, and CSV export.  
-🔗 [Frontend Repo](https://github.com/rojanagunoori/mern-user-admin-plus) | [Backend Repo](https://github.com/rojanagunoori/mern-user-admin-plus-backend)
+- # 🚀 Projects Portfolio
 
-### 🤖 [AI Voice Interview Platform](https://ai-interview-platform-python.onrender.com)
-An AI-driven voice interview platform using **SpeechRecognition** and **Text-to-Speech** for personalized interviews.  
-🔗 [GitHub Repo](https://github.com/rojanagunoori/ai-interview-platform-python)
+A comprehensive collection of my projects showcasing full-stack development, real-time applications, AI integrations, and modern UI/UX design.
 
-### 📸 [InstaPost – Social Media Platform](https://instapost-deploy-frontend.vercel.app)
-Real-time social media app with **login, posts, comments, likes, and chat**, built using **Socket.IO** and **Firebase**.  
-🔗 [Frontend Repo](https://github.com/rojanagunoori/InstapostDeploy-frontend.git) | [Backend Repo](https://github.com/rojanagunoori/InstaPostDeploy-sever.git)
+---
 
-### 📋 [Todo MERN App](https://todo-mern-sqlite3.netlify.app)
-Task management system with **JWT authentication**, CRUD features, and responsive UI using SQLite3.  
-🔗 [GitHub Repo](https://github.com/rojanagunoori/TodoMernAssignment.git)
+## 🌟 Projects
 
-### 🐶 [Dog Breed Identification – Deep Learning](https://colab.research.google.com/drive/13h8zjYzofD3-rI3qXIRBJhyCkgkWuvpB)
-Developed a CNN model (ResNet50) to classify 120 dog breeds with **86% accuracy**.  
-🔗 [Kaggle Profile](https://www.kaggle.com/nagunooriroja)
+### 🎬 NavaFlix
+
+🔗 Live: https://nava-flix.vercel.app/
+🔗 GitHub: https://github.com/rojanagunoori/NavaFlix
+
+An AI-powered movie discovery platform built with Next.js that enables users to explore trending movies and TV shows in real time. The application integrates external APIs and enhances user experience with intelligent summaries and a modern streaming-style interface.
+
+**Key Features:**
+
+* Real-time movie and TV data using TMDB API
+* AI-generated summaries using Gemini API
+* Watchlist functionality for saving content
+* Optimized performance with Next.js
+
+---
+
+### 🤖 AI Interview Platform
+
+🔗 Live: https://ai-interview-platform-python.onrender.com/
+🔗 GitHub: https://github.com/rojanagunoori/ai_interview_platform-python
+
+An AI-driven mock interview system designed to simulate real interview experiences. Built using Python and Streamlit, it provides dynamic questions and real-time feedback.
+
+**Key Features:**
+
+* AI-based question generation
+* Instant response evaluation
+* Clean and interactive UI
+* Helps improve interview performance
+
+---
+
+### 🔄 Dynamic Diagram Flow
+
+🔗 Live: https://dynamic-diagram-flow-react.netlify.app/
+🔗 GitHub: https://github.com/rojanagunoori/dynamic-diagram-flow
+
+A workflow builder that allows users to visually create and validate node-based systems. It ensures logical correctness using graph algorithms.
+
+**Key Features:**
+
+* Drag-and-drop interface
+* DAG validation using DFS
+* Dynamic variable handling
+* Interactive UI
+
+---
+
+### 😊 Mood Tracker
+
+🔗 Live: https://collaborativemoodtracker.web.app/
+🔗 GitHub: https://github.com/rojanagunoori/mood-tracker
+
+A collaborative mood tracking platform where users can log and share emotions in real time, encouraging engagement and community interaction.
+
+**Key Features:**
+
+* Real-time updates using Firebase
+* User authentication
+* Collaborative sharing
+* Responsive UI
+
+---
+
+### 🌐 CatchUp Social Platform
+
+🔗 Live: https://catchup-1-lj7q.onrender.com
+🔗 GitHub: https://github.com/rojanagunoori/catchup
+
+A full-stack social networking application enabling real-time interactions such as likes, comments, and friend requests.
+
+**Key Features:**
+
+* Real-time communication using WebSockets
+* Authentication and session handling
+* Built with Ruby on Rails and ActionCable
+* Scalable backend architecture
+
+---
+
+### 🚗 Vehicle Tracker App
+
+🔗 Live: https://vehicle-tracker-app-roja.netlify.app/
+🔗 GitHub: https://github.com/rojanagunoori/vehicle-tracker-app
+
+A route simulation and tracking application that visualizes movement with real-time telemetry data.
+
+**Key Features:**
+
+* Route animation and playback
+* Real-time speed and distance tracking
+* Multi-mode routing support
+* Map integration with Leaflet
+
+---
+
+### 🎮 KBC Game
+
+🔗 Live: https://kbc-game-projects.netlify.app/
+🔗 Frontend: https://github.com/rojanagunoori/kbc-game-frontend
+🔗 Backend: https://github.com/rojanagunoori/kbc-game
+
+A full-stack quiz application inspired by Kaun Banega Crorepati with interactive gameplay and backend-driven logic.
+
+**Key Features:**
+
+* Interactive quiz interface
+* Backend scoring system
+* REST API integration
+* Responsive UI
+
+---
+
+### 🧩 MERN User Admin Plus
+
+🔗 Live: https://mern-useradmin-plus.netlify.app/
+🔗 Frontend: https://github.com/rojanagunoori/mern-user-admin-plus
+🔗 Backend: https://github.com/rojanagunoori/mern-user-admin-plus-backend
+
+A comprehensive user management system with secure authentication and advanced admin features.
+
+**Key Features:**
+
+* JWT authentication
+* CRUD operations
+* Pagination & CSV export
+* Profile uploads
+
+---
+
+### 📋 Todo MERN Assignment
+
+🔗 Live: https://todo-mern-sqlite3.netlify.app/
+🔗 Frontend: https://github.com/rojanagunoori/TodoMernAssignment
+🔗 Backend: https://github.com/rojanagunoori/TodoMernAssignment-backend
+
+A task management system with authentication and efficient data handling.
+
+**Key Features:**
+
+* Task CRUD operations
+* Secure authentication
+* SQLite backend
+* Responsive UI
+
+---
+
+### 🔐 Zod Prisma Auth
+
+🔗 Live: https://zod-prisma-auth.netlify.app/
+🔗 Frontend: https://github.com/rojanagunoori/zod-prisma-auth-frontend
+🔗 Backend: https://github.com/rojanagunoori/zod-prisma-auth-backend
+
+A secure authentication system with type-safe validation and role-based access control.
+
+**Key Features:**
+
+* JWT authentication
+* Zod validation
+* Prisma ORM
+* PostgreSQL database
+
+---
+
+### 🎵 Spotify Homepage Clone
+
+🔗 Live: https://spotify-homepage-clone-two.vercel.app/
+🔗 GitHub: https://github.com/rojanagunoori/spotify-homepage-clone
+
+A responsive clone of Spotify’s homepage with modern UI and API-driven content.
+
+---
+
+### 📸 InstaPost
+
+🔗 Live: https://instapost-deploy-frontend.vercel.app/
+🔗 Frontend: https://github.com/rojanagunoori/InstapostDeploy-frontend
+🔗 Backend: https://github.com/rojanagunoori/InstaPostDeploy-sever
+
+A real-time social media platform with posts, likes, comments, and chat.
+
+---
+
+### 🧠 Wordle Clone
+
+🔗 Live: https://wordle-clone-zeta-ashy.vercel.app/
+🔗 GitHub: https://github.com/rojanagunoori/wordle-clone
+
+A browser-based word guessing game with interactive feedback system.
+
+---
+
+### 🛒 FakeStore E-Commerce
+
+🔗 Live: https://fakestore-ecommerce-react-redux.netlify.app/
+🔗 GitHub: https://github.com/rojanagunoori/fakestore-ecommerce-react-redux
+
+A full-featured e-commerce app with cart, authentication, and product browsing.
+
+---
+
+### 📊 Hedamo Dashboard
+
+🔗 Live: https://hedamo-dashboard-rho.vercel.app/
+🔗 GitHub: https://github.com/rojanagunoori/hedamo-dashboard
+
+An AI-powered dashboard for product transparency and analytics.
+
+---
+
+### 🛍️ Mellow Mart
+
+🔗 Live: https://mellow-mart.surge.sh/
+🔗 GitHub: https://github.com/rojanagunoori/mellow-mart
+
+A modern e-commerce platform with real-time cart management.
+
+---
+
+### 🍽️ Party Menu App
+
+🔗 Live: https://party-menu-app.surge.sh/
+🔗 GitHub: https://github.com/rojanagunoori/party-menu-app
+
+An interactive app for selecting and managing party menus.
+
+---
+
+### 👗 Outfit Builder
+
+🔗 Live: http://outfit-builder.surge.sh/
+🔗 GitHub: https://github.com/rojanagunoori/outfit-builder
+
+A drag-and-drop outfit creation tool with cart functionality.
+
+---
+
+### 📰 Social Media Feed
+
+🔗 Live: https://socialmediafeed-bb5a2.web.app/
+🔗 GitHub: https://github.com/rojanagunoori/SocialMediaFeed
+
+A real-time feed application with Firebase backend.
+
+---
+
+### 🧘 Yoga Animated Web
+
+🔗 Live: https://om-mantra-yoga.netlify.app/
+🔗 GitHub: https://github.com/rojanagunoori/YogaAnimatedWeb
+
+An interactive yoga learning platform with animations.
+
+---
+
+### 🎨 Figma Design Prototype
+
+🔗 Live: https://www.figma.com/design/ESGkrFH6BwZT6HHA1iG5Bi/Untitled
+
+A UI/UX design prototype showcasing modern layouts and interactions.
+
+---
+
+### 🐶 Dog Breed Identification
+
+🔗 Project: https://drive.google.com/file/d/1cLDa2UGbwouqxFjTLfNkGXUH3z1WiDau/view
+
+A deep learning project that classifies dog breeds using CNN models.
+
+
+
 
 ---
 
