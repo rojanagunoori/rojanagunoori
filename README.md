@@ -18,7 +18,7 @@ Hi 👋, I'm **Nagunoori Roja**
 ## 💼 Experience
 
 **Full Stack Software Engineer Intern** — InnoRize Enterprises Private Limited  
-📍 Hyderabad, Telangana | 🗓️ Nov 2025 – Present  
+📍 Hyderabad, Telangana | 🗓️ Nov 2025 – Mar 2026  
 
 - Working on Android application development and web applications.
 - Contributing to frontend and backend development for company projects.
