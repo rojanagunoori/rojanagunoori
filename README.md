@@ -122,6 +122,22 @@ A workflow builder that allows users to visually create and validate node-based 
 * Interactive UI
 
 ---
+## ✅ Todo Django App
+
+🔗 Live: https://todo-python-using-django-1.onrender.com
+
+🔗 GitHub: https://github.com/rojanagunoori/todo-python-using-Django
+
+A full-stack task management web application built using Django and Python that allows users to manage daily tasks efficiently.
+
+**Key Features:**
+
+* User authentication and session management
+* CRUD operations for tasks
+* Task search and status tracking
+* Clean and responsive UI using HTML & CSS
+
+---
 
 ### 😊 Mood Tracker
 
